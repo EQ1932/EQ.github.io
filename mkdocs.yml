@@ -1,0 +1,4 @@
+site_name: note
+theme:
+  name: material
+  language: zh
